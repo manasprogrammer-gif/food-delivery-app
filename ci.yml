@@ -1,4 +1,4 @@
-name: PlatePal CI
+name: food delivery CI
 on:
   push:
     branches: ["main", "develop"]
